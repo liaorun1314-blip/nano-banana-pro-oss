@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nano Banana Pro OSS</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="bg-shape bg-shape-left"></div>
+    <div class="bg-shape bg-shape-right"></div>
+
+    <main class="container">
+      <header class="hero">
+        <p class="badge">Open Source</p>
+        <h1>Nano Banana Pro OSS</h1>
+        <p class="subtitle">
+          Search, filter, and copy production-ready visual prompts in seconds.
+        </p>
+      </header>
+
+      <section class="controls" aria-label="Prompt Filters">
+        <label class="field">
+          <span>Keyword</span>
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="Search title, category, source, prompt..."
+          />
+        </label>
+        <label class="field">
+          <span>Category</span>
+          <select id="categorySelect">
+            <option value="all">All categories</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="stats" id="stats"></section>
+      <section class="grid" id="promptGrid"></section>
+    </main>
+
+    <template id="promptCardTemplate">
+      <article class="card">
+        <div class="card-head">
+          <h2 class="card-title"></h2>
+          <span class="card-category"></span>
+        </div>
+        <p class="card-source"></p>
+        <p class="card-preview"></p>
+        <div class="card-actions">
+          <button data-action="toggle" class="btn btn-ghost">View Full</button>
+          <button data-action="copy" class="btn btn-primary">Copy Prompt</button>
+        </div>
+        <pre class="card-full hidden"></pre>
+      </article>
+    </template>
+
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
