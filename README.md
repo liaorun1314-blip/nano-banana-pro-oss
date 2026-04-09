@@ -16,7 +16,7 @@ This project is an independent community edition built for local use and open co
 
 ```bash
 cd /path/to/nano-banana-pro-oss
-python3 -m http.server 8787
+python3 -m http.server 8787 --bind 127.0.0.1 --directory .
 ```
 
 Then open:

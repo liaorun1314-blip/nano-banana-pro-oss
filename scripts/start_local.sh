@@ -18,7 +18,7 @@ if [ -f "$PID_FILE" ]; then
   rm -f "$PID_FILE"
 fi
 
-nohup python3 -m http.server "$PORT" --directory "$ROOT_DIR" >"$LOG_FILE" 2>&1 &
+nohup python3 -m http.server "$PORT" --bind 127.0.0.1 --directory "$ROOT_DIR" >"$LOG_FILE" 2>&1 &
 NEW_PID="$!"
 sleep 0.6
 

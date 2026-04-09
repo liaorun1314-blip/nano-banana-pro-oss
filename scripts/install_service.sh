@@ -45,6 +45,8 @@ cat >"$PLIST_PATH" <<EOF
     <string>-m</string>
     <string>http.server</string>
     <string>${PORT}</string>
+    <string>--bind</string>
+    <string>127.0.0.1</string>
     <string>--directory</string>
     <string>${INSTALL_ROOT}</string>
   </array>
