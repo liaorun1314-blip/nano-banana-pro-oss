@@ -11,10 +11,12 @@
     <string>-m</string>
     <string>http.server</string>
     <string>8787</string>
+    <string>--directory</string>
+    <string>/Users/kunding/nano-banana-pro-oss</string>
   </array>
 
   <key>WorkingDirectory</key>
-  <string>/Users/kunding/Documents/GitHub/nano-banana-pro-oss</string>
+  <string>/</string>
 
   <key>RunAtLoad</key>
   <true/>
@@ -22,8 +24,8 @@
   <true/>
 
   <key>StandardOutPath</key>
-  <string>/Users/kunding/Documents/GitHub/nano-banana-pro-oss/.runtime/launchd.out.log</string>
+  <string>/Users/kunding/nano-banana-pro-oss/.runtime/launchd.out.log</string>
   <key>StandardErrorPath</key>
-  <string>/Users/kunding/Documents/GitHub/nano-banana-pro-oss/.runtime/launchd.err.log</string>
+  <string>/Users/kunding/nano-banana-pro-oss/.runtime/launchd.err.log</string>
 </dict>
 </plist>
