@@ -1,0 +1,72 @@
+[
+  {
+    "id": "prompt-001",
+    "title": "Hyper-Realistic Crowd Editorial",
+    "category": "Photorealism",
+    "source": "X / @SebJefferies",
+    "prompt": "Create a hyper-realistic wide cinematic editorial image with a massive crowd of celebrities from different eras. Keep lighting natural with golden rim highlights, shallow depth of field, calibrated skin tones, and rich material texture detail."
+  },
+  {
+    "id": "prompt-002",
+    "title": "2000s Mirror Selfie",
+    "category": "Aesthetics",
+    "source": "X / @ZaraIrahh",
+    "prompt": "Generate an early-2000s mirror selfie with a harsh digital-camera flash, nostalgic bedroom setting, pastel walls, pop-culture posters, and natural glam makeup. Keep style authentic with subtle grain and retro highlight behavior."
+  },
+  {
+    "id": "prompt-003",
+    "title": "Business Portrait Generator",
+    "category": "Productivity",
+    "source": "WeChat prompt collection",
+    "prompt": "Keep face identity consistent from the reference image. Convert to a professional headshot with navy suit, white shirt, dark gray studio backdrop, classic three-point lighting, and realistic skin texture. Use portrait compression and clean color grading."
+  },
+  {
+    "id": "prompt-004",
+    "title": "Film Look Coffee Portrait",
+    "category": "Photorealism",
+    "source": "WeChat prompt collection",
+    "prompt": "Create a cinematic emotional portrait at golden hour near an urban coffee shop window with Kodak Portra 400 style grain, soft focus, warm tones, natural bokeh, and exact identity preservation."
+  },
+  {
+    "id": "prompt-005",
+    "title": "1990s Flash Portrait",
+    "category": "Aesthetics",
+    "source": "X / @kingofdairyque",
+    "prompt": "Produce a 1990s direct-flash portrait with nostalgic room atmosphere, aesthetic posters, dim ambient light, tied messy hair, modern oversized sweater, and unchanged facial identity."
+  },
+  {
+    "id": "prompt-006",
+    "title": "Product Hero Shot",
+    "category": "E-commerce",
+    "source": "Internal template",
+    "prompt": "Generate a premium product hero image on textured neutral background with one strong key light and one soft fill light. Add realistic shadows, reflection control, and commercial-grade composition suitable for storefront banners."
+  },
+  {
+    "id": "prompt-007",
+    "title": "Apartment Interior Redesign",
+    "category": "Interior Design",
+    "source": "Internal template",
+    "prompt": "Reimagine this room into modern warm-minimal style: oak accents, matte black fixtures, layered ambient light, clutter removal, improved spatial flow, and realistic daylight color behavior while preserving architectural structure."
+  },
+  {
+    "id": "prompt-008",
+    "title": "Old Photo Restoration",
+    "category": "Photo Editing",
+    "source": "Internal template",
+    "prompt": "Restore the uploaded old portrait by removing scratches, repairing torn regions, correcting color fading, improving contrast, and enhancing fine details while preserving original identity and period authenticity."
+  },
+  {
+    "id": "prompt-009",
+    "title": "Social Banner Variant Pack",
+    "category": "Marketing",
+    "source": "Internal template",
+    "prompt": "Create three social media banner variants from the same concept: a dramatic hero version, a clean product-focused version, and a text-friendly version with negative space. Keep brand color consistency across all outputs."
+  },
+  {
+    "id": "prompt-010",
+    "title": "Anime Spotlight Portrait",
+    "category": "Creative Experiments",
+    "source": "X / @SimplyAnnisa",
+    "prompt": "Generate a hyperrealistic anime portrait on pure black background using a narrow spotlight centered on the face. Keep sharp light cutoff, strong high-contrast falloff, long dark hair fading into shadows, and mysterious mood."
+  }
+]
